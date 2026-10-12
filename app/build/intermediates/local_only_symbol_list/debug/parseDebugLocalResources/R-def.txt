@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+drawable input_border
+id addButton
+id divButton
+id mulButton
+id number1
+id number2
+id resultText
+id subButton
+layout activity_main
+style AppTheme
